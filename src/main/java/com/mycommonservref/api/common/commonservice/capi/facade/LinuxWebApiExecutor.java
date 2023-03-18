@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.capi.facade;
+package com.mycommonservref.api.common.commonservice.capi.facade;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.repository.statement;
+package com.mycommonservref.api.common.commonservice.repository.statement;
 
 /**
  * The type Updt trnlog statement.

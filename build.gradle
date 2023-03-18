@@ -9,7 +9,7 @@ plugins {
 	id 'net.researchgate.release' version '2.8.1'
 }
 
-group = 'com.nswlrs.api.common.commonservice'
+group = 'com.mycommonservref.api.common.commonservice'
 version = '0.1.64'
 
 java {

@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.external.config;
+package com.mycommonservref.api.common.commonservice.external.config;
 
 import java.io.IOException;
 

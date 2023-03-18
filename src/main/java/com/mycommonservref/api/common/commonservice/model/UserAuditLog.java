@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.model;
+package com.mycommonservref.api.common.commonservice.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;

@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.capi.model;
+package com.mycommonservref.api.common.commonservice.capi.model;
 
 /**
  * The type Data.

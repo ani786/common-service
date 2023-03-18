@@ -1,8 +1,8 @@
-package com.nswlrs.api.common.commonservice.external.config;
+package com.mycommonservref.api.common.commonservice.external.config;
 
 
-import com.nswlrs.api.common.commonservice.external.interceptor.PortalRequestInterceptor;
-import com.nswlrs.api.common.commonservice.external.interceptor.RequestClientHeaderInterceptor;
+import com.mycommonservref.api.common.commonservice.external.interceptor.PortalRequestInterceptor;
+import com.mycommonservref.api.common.commonservice.external.interceptor.RequestClientHeaderInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 

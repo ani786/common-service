@@ -1,9 +1,9 @@
-package com.nswlrs.api.common.commonservice.capi;
+package com.mycommonservref.api.common.commonservice.capi;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.nswlrs.api.common.commonservice.capi.model.ApiResultPages;
-import com.nswlrs.api.common.commonservice.capi.util.ApiResultPagesFormatter;
+import com.mycommonservref.api.common.commonservice.capi.model.ApiResultPages;
+import com.mycommonservref.api.common.commonservice.capi.util.ApiResultPagesFormatter;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

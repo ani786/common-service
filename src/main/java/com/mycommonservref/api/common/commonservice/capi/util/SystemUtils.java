@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.capi.util;
+package com.mycommonservref.api.common.commonservice.capi.util;
 
 import lombok.experimental.UtilityClass;
 

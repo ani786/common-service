@@ -1,7 +1,7 @@
-package com.nswlrs.api.common.commonservice.external.interceptor;
+package com.mycommonservref.api.common.commonservice.external.interceptor;
 
-import static com.nswlrs.api.common.commonservice.util.Constants.AUTHORIZATION_HEADER;
-import static com.nswlrs.api.common.commonservice.util.Constants.X_CORRELATION_ID;
+import static com.mycommonservref.api.common.commonservice.util.Constants.AUTHORIZATION_HEADER;
+import static com.mycommonservref.api.common.commonservice.util.Constants.X_CORRELATION_ID;
 
 
 import feign.RequestInterceptor;

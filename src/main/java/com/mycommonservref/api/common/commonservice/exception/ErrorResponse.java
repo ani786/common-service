@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.exception;
+package com.mycommonservref.api.common.commonservice.exception;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

@@ -1,9 +1,9 @@
-package com.nswlrs.api.common.commonservice.capi.util;
+package com.mycommonservref.api.common.commonservice.capi.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
-import com.nswlrs.api.common.commonservice.capi.model.ApiResultPages;
-import com.nswlrs.api.common.commonservice.capi.model.WebApi;
+import com.mycommonservref.api.common.commonservice.capi.model.ApiResultPages;
+import com.mycommonservref.api.common.commonservice.capi.model.WebApi;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Service;

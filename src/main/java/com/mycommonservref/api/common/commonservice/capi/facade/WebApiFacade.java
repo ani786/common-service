@@ -1,8 +1,8 @@
-package com.nswlrs.api.common.commonservice.capi.facade;
+package com.mycommonservref.api.common.commonservice.capi.facade;
 
-import com.nswlrs.api.common.commonservice.capi.model.ApiResultPages;
-import com.nswlrs.api.common.commonservice.capi.util.SystemUtils;
-import com.nswlrs.api.common.commonservice.capi.util.XmlParser;
+import com.mycommonservref.api.common.commonservice.capi.model.ApiResultPages;
+import com.mycommonservref.api.common.commonservice.capi.util.SystemUtils;
+import com.mycommonservref.api.common.commonservice.capi.util.XmlParser;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

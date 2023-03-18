@@ -1,12 +1,12 @@
-package com.nswlrs.api.common.commonservice.capi.util;
+package com.mycommonservref.api.common.commonservice.capi.util;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import com.nswlrs.api.common.commonservice.capi.model.ApiResultPage;
-import com.nswlrs.api.common.commonservice.capi.model.ApiResultPages;
-import com.nswlrs.api.common.commonservice.util.Constants;
+import com.mycommonservref.api.common.commonservice.capi.model.ApiResultPage;
+import com.mycommonservref.api.common.commonservice.capi.model.ApiResultPages;
+import com.mycommonservref.api.common.commonservice.util.Constants;
 import lombok.experimental.UtilityClass;
 
 @UtilityClass

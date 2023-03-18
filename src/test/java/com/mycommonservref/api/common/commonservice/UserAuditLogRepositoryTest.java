@@ -1,12 +1,12 @@
-package com.nswlrs.api.common.commonservice;
+package com.mycommonservref.api.common.commonservice;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.ArgumentMatchers.eq;
 import static org.mockito.Mockito.when;
 
-import com.nswlrs.api.common.commonservice.model.UserAuditLog;
-import com.nswlrs.api.common.commonservice.repository.UserAuditLogRepository;
+import com.mycommonservref.api.common.commonservice.model.UserAuditLog;
+import com.mycommonservref.api.common.commonservice.repository.UserAuditLogRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.xray;
+package com.mycommonservref.api.common.commonservice.xray;
 
 import java.util.Map;
 

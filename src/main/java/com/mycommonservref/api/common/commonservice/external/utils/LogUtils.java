@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.external.utils;
+package com.mycommonservref.api.common.commonservice.external.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

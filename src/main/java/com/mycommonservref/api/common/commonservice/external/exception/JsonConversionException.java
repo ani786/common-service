@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.external.exception;
+package com.mycommonservref.api.common.commonservice.external.exception;
 
 /**
  * Exception during the json conversion.

@@ -1,10 +1,10 @@
-package com.nswlrs.api.common.commonservice.external.utils;
+package com.mycommonservref.api.common.commonservice.external.utils;
 
 import java.util.Map;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.nswlrs.api.common.commonservice.external.exception.JsonConversionException;
+import com.mycommonservref.api.common.commonservice.external.exception.JsonConversionException;
 import lombok.experimental.UtilityClass;
 import lombok.extern.slf4j.Slf4j;
 

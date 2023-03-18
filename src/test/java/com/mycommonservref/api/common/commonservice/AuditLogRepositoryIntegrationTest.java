@@ -1,14 +1,14 @@
-package com.nswlrs.api.common.commonservice;
+package com.mycommonservref.api.common.commonservice;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import javax.sql.DataSource;
 
-import com.nswlrs.api.common.commonservice.config.IntegrationTest;
-import com.nswlrs.api.common.commonservice.model.UpdtTrnlog;
-import com.nswlrs.api.common.commonservice.model.UserAuditLog;
-import com.nswlrs.api.common.commonservice.repository.UpdtTrnlogRepository;
-import com.nswlrs.api.common.commonservice.repository.UserAuditLogRepository;
+import com.mycommonservref.api.common.commonservice.config.IntegrationTest;
+import com.mycommonservref.api.common.commonservice.model.UpdtTrnlog;
+import com.mycommonservref.api.common.commonservice.model.UserAuditLog;
+import com.mycommonservref.api.common.commonservice.repository.UpdtTrnlogRepository;
+import com.mycommonservref.api.common.commonservice.repository.UserAuditLogRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

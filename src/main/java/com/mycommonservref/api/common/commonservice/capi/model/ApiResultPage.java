@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.capi.model;
+package com.mycommonservref.api.common.commonservice.capi.model;
 
 import java.io.Serializable;
 import java.util.List;

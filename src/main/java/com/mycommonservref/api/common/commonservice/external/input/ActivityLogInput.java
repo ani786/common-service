@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.external.input;
+package com.mycommonservref.api.common.commonservice.external.input;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;

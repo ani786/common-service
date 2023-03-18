@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.config;
+package com.mycommonservref.api.common.commonservice.config;
 
 import javax.servlet.Filter;
 

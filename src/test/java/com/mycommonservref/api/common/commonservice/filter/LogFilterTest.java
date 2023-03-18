@@ -1,6 +1,6 @@
-package com.nswlrs.api.common.commonservice.filter;
+package com.mycommonservref.api.common.commonservice.filter;
 
-import com.nswlrs.api.common.commonservice.util.Constants;
+import com.mycommonservref.api.common.commonservice.util.Constants;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

@@ -1,9 +1,9 @@
-package com.nswlrs.api.common.commonservice.filter;
+package com.mycommonservref.api.common.commonservice.filter;
 
-import static com.nswlrs.api.common.commonservice.util.Constants.MISSING_REQUEST_HEADER;
-import static com.nswlrs.api.common.commonservice.util.Constants.REGEX_FOR_PASS_THROUGH_URLS;
-import static com.nswlrs.api.common.commonservice.util.Constants.X_ACTIONED_BY;
-import static com.nswlrs.api.common.commonservice.util.Constants.X_CORRELATION_ID;
+import static com.mycommonservref.api.common.commonservice.util.Constants.MISSING_REQUEST_HEADER;
+import static com.mycommonservref.api.common.commonservice.util.Constants.REGEX_FOR_PASS_THROUGH_URLS;
+import static com.mycommonservref.api.common.commonservice.util.Constants.X_ACTIONED_BY;
+import static com.mycommonservref.api.common.commonservice.util.Constants.X_CORRELATION_ID;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.validation.ValidationException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.nswlrs.api.common.commonservice.exception.ErrorResponse;
+import com.mycommonservref.api.common.commonservice.exception.ErrorResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.MDC;

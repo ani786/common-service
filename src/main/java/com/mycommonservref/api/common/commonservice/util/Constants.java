@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.util;
+package com.mycommonservref.api.common.commonservice.util;
 
 import java.util.Set;
 

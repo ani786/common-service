@@ -1,7 +1,7 @@
-package com.nswlrs.api.common.commonservice.repository;
+package com.mycommonservref.api.common.commonservice.repository;
 
-import com.nswlrs.api.common.commonservice.model.UserAuditLog;
-import com.nswlrs.api.common.commonservice.repository.statement.UserAuditLogStatement;
+import com.mycommonservref.api.common.commonservice.model.UserAuditLog;
+import com.mycommonservref.api.common.commonservice.repository.statement.UserAuditLogStatement;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jdbc.core.JdbcTemplate;

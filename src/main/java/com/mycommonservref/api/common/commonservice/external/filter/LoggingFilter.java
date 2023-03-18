@@ -1,10 +1,10 @@
-package com.nswlrs.api.common.commonservice.external.filter;
+package com.mycommonservref.api.common.commonservice.external.filter;
 
-import static com.nswlrs.api.common.commonservice.util.Constants.APPLY_TO_EXTERNAL_URI;
-import static com.nswlrs.api.common.commonservice.util.Constants.AUTHORIZATION_HEADER;
-import static com.nswlrs.api.common.commonservice.util.Constants.VERSION2;
-import static com.nswlrs.api.common.commonservice.util.Constants.X_ACTIONED_BY;
-import static com.nswlrs.api.common.commonservice.util.Constants.X_CORRELATION_ID;
+import static com.mycommonservref.api.common.commonservice.util.Constants.APPLY_TO_EXTERNAL_URI;
+import static com.mycommonservref.api.common.commonservice.util.Constants.AUTHORIZATION_HEADER;
+import static com.mycommonservref.api.common.commonservice.util.Constants.VERSION2;
+import static com.mycommonservref.api.common.commonservice.util.Constants.X_ACTIONED_BY;
+import static com.mycommonservref.api.common.commonservice.util.Constants.X_CORRELATION_ID;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -25,7 +25,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.nswlrs.api.common.commonservice.exception.ErrorResponse;
+import com.mycommonservref.api.common.commonservice.exception.ErrorResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.MDC;

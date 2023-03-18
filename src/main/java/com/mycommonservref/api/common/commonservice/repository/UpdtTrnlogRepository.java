@@ -1,7 +1,7 @@
-package com.nswlrs.api.common.commonservice.repository;
+package com.mycommonservref.api.common.commonservice.repository;
 
-import com.nswlrs.api.common.commonservice.model.UpdtTrnlog;
-import com.nswlrs.api.common.commonservice.repository.statement.UpdtTrnlogStatement;
+import com.mycommonservref.api.common.commonservice.model.UpdtTrnlog;
+import com.mycommonservref.api.common.commonservice.repository.statement.UpdtTrnlogStatement;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

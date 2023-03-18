@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.external.rest.oauth;
+package com.mycommonservref.api.common.commonservice.external.rest.oauth;
 
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;

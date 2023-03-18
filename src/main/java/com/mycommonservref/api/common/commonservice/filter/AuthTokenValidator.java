@@ -1,7 +1,7 @@
-package com.nswlrs.api.common.commonservice.filter;
+package com.mycommonservref.api.common.commonservice.filter;
 
-import static com.nswlrs.api.common.commonservice.util.Constants.AUTHORIZATION_HEADER;
-import static com.nswlrs.api.common.commonservice.util.Constants.X_ACTIONED_BY;
+import static com.mycommonservref.api.common.commonservice.util.Constants.AUTHORIZATION_HEADER;
+import static com.mycommonservref.api.common.commonservice.util.Constants.X_ACTIONED_BY;
 import static org.apache.commons.lang3.BooleanUtils.TRUE;
 
 import java.io.IOException;
@@ -21,9 +21,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.nswlrs.api.common.commonservice.external.rest.oauth.JwtTokenValues;
-import com.nswlrs.api.common.commonservice.external.utils.JsonUtils;
-import com.nswlrs.api.common.commonservice.util.Constants;
+import com.mycommonservref.api.common.commonservice.external.rest.oauth.JwtTokenValues;
+import com.mycommonservref.api.common.commonservice.external.utils.JsonUtils;
+import com.mycommonservref.api.common.commonservice.util.Constants;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.junit.jupiter.api.Disabled;

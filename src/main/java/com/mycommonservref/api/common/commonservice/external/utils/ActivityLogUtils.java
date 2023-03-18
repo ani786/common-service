@@ -1,8 +1,8 @@
-package com.nswlrs.api.common.commonservice.external.utils;
+package com.mycommonservref.api.common.commonservice.external.utils;
 
 import java.util.Optional;
 
-import com.nswlrs.api.common.commonservice.external.input.ActivityLogInput;
+import com.mycommonservref.api.common.commonservice.external.input.ActivityLogInput;
 import lombok.experimental.UtilityClass;
 import org.springframework.http.HttpStatus;
 

@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.external.interceptor;
+package com.mycommonservref.api.common.commonservice.external.interceptor;
 
 import javax.servlet.http.HttpServletRequest;
 

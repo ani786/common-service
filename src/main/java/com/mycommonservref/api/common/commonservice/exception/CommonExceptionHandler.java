@@ -1,4 +1,4 @@
-package com.nswlrs.api.common.commonservice.exception;
+package com.mycommonservref.api.common.commonservice.exception;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -6,7 +6,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.validation.ConstraintViolationException;
 import javax.validation.UnexpectedTypeException;
 
-import com.nswlrs.api.common.commonservice.util.Constants;
+import com.mycommonservref.api.common.commonservice.util.Constants;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.dao.InvalidDataAccessApiUsageException;

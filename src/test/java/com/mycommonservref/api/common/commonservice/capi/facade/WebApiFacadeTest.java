@@ -1,7 +1,7 @@
-package com.nswlrs.api.common.commonservice.capi.facade;
+package com.mycommonservref.api.common.commonservice.capi.facade;
 
-import com.nswlrs.api.common.commonservice.capi.model.ApiResultPages;
-import com.nswlrs.api.common.commonservice.capi.util.XmlParser;
+import com.mycommonservref.api.common.commonservice.capi.model.ApiResultPages;
+import com.mycommonservref.api.common.commonservice.capi.util.XmlParser;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
